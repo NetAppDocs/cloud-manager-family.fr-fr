@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="fd4eb119039df77c719a1f46167399a3" category="summary">Cloud Manager est aujourd'hui BlueXP. BlueXP vous permet de créer, protéger et régir vos données multiclouds hybrides à partir d'un seul plan de contrôle.</block>
+  <block id="a0d9a83eb0552b7cc89c8d441a15ede1" category="doc">Bienvenue dans NetApp BlueXP</block>
+  <block id="d1fe59ef952debed99ffc7ccaaa00a70" category="paragraph">Cloud Manager s'appelle désormais BlueXP. BlueXP vous permet de créer, protéger et régir vos données multiclouds hybrides à partir d'un seul plan de contrôle.</block>
+  <block id="4860911c5c67c5e04987564884e8b85e" category="section-title">D'une expérience de gestion unifiée</block>
+  <block id="c3eb39b445a75ad05505fe32c6f061df" category="paragraph">BlueXP vous permet de gérer l'ensemble de vos ressources de stockage et de données à partir d'une interface unique.</block>
+  <block id="e2f4ed3372452716e062769cee896707" category="paragraph">Vous pouvez utiliser BlueXP pour créer et gérer le stockage cloud (par exemple, Cloud Volumes ONTAP et Azure NetApp Files), utiliser des services de données (par exemple, Cloud Backup et Cloud Data Sense) et contrôler de nombreux périphériques de stockage sur site et à la périphérie.</block>
+  <block id="fc8ff23d0bf81d0f8427b5c75023f80e" category="inline-link">Pour en savoir plus, consultez le site Web BlueXP</block>
+  <block id="8ec0fdd1845d3a5b2aa52e5cc7bce6ee" category="list-text"><block ref="8ec0fdd1845d3a5b2aa52e5cc7bce6ee" category="inline-link-rx"></block></block>
+  <block id="61b173efd5c260fd3e3f446d9d4b37e7" category="inline-link">Lancez-vous avec BlueXP</block>
+  <block id="790c95b0226a2581bfc7d45871227daf" category="list-text"><block ref="790c95b0226a2581bfc7d45871227daf" category="inline-link-rx"></block></block>
+  <block id="31f0834695d820dc381e57397e466d12" category="section-title">Nouveau menu de navigation</block>
+  <block id="fd1529b541f9947e3defd06b8efbfca3" category="paragraph">Dans le menu de navigation de BlueXP, les services de données sont désormais organisés par catégories et sont nommés en fonction de leur fonctionnalité. Par exemple, vous pouvez accéder à Cloud Backup en accédant à la catégorie *protection* et en sélectionnant *sauvegarde et restauration*.</block>
+  <block id="7cb04a79785e33be744a126127319a35" category="inline-image-macro">Capture d'écran du menu de navigation de BlueXP qui affiche des catégories telles que le stockage et l'intégrité.</block>
+  <block id="e3a2069a256a46b571b57fe46324f5c0" category="paragraph"><block ref="e3a2069a256a46b571b57fe46324f5c0" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="68d4f3d7366b4ea59a65f0c44540e368" category="section-title">Intégrations de nouveaux produits</block>
+  <block id="054332983ba253fe4573945dcdbc8109" category="list-text">Vous pouvez désormais gérer davantage de systèmes de stockage sur site, comme les baies E-Series et StorageGRID.</block>
+  <block id="008dd953f4aadef1cabe373c88ac29c1" category="list-text">Vous pouvez désormais utiliser les services de données précédemment disponibles uniquement en tant que service autonome avec une interface utilisateur distincte, telle que Digital Advisor (anciennement Active IQ).</block>
+  <block id="7a58e46486e93797ee672a65eac3170f" category="paragraph">*En savoir plus*</block>
+  <block id="23c19e9851a45bd1a62c97b5c51e16ab" category="inline-link">Gérez les systèmes de stockage E-Series</block>
+  <block id="652eac6ffac6ea42cdd10bbba7bc6c0c" category="list-text"><block ref="652eac6ffac6ea42cdd10bbba7bc6c0c" category="inline-link-rx"></block></block>
+  <block id="280f0ea2e556e240b5f15b51047b45b8" category="inline-link">Gérer des systèmes de stockage StorageGRID</block>
+  <block id="d694b62f00b305ea3d15052a9af4e461" category="list-text"><block ref="d694b62f00b305ea3d15052a9af4e461" category="inline-link-rx"></block></block>
+  <block id="f3bb3ec21babd88d81e5f7aefe69cced" category="inline-link">En savoir plus sur l'intégration de Digital Advisor</block>
+  <block id="fd93e0ac3cede5691afd22e4d95042e3" category="list-text"><block ref="fd93e0ac3cede5691afd22e4d95042e3" category="inline-link-rx"></block></block>
+  <block id="8adbcfd0f4d060d9e017dc7374ce832e" category="summary">BlueXP (anciennement Cloud Manager) fournit aux experts IT et aux architectes cloud un plan de contrôle centralisé pour gérer, contrôler et automatiser les données dans les environnements multiclouds hybrides. Parcourez les documents par zone de produit ou utilisez la recherche ci-dessus pour trouver du contenu n'importe où dans les documents BlueXP.</block>
+  <block id="eeb8e055593f1709925a03e2ebb13265" category="doc">Documentation BlueXP</block>
+  <block id="07d41912a6ab6b97216f8cf89e93205c" category="doc">Auto-assistance</block>
+  <block id="7c5661ab6b39ee901cea00a6e7020a49" category="paragraph">NetApp prend en charge BlueXP et ses services cloud de différentes manières. De nombreuses options d'auto-assistance gratuites sont disponibles 24 h/24 et 7 j/7, comme des articles de la base de connaissances (KB) et un forum communautaire. Votre inscription au support inclut un support technique à distance via la création de tickets en ligne.</block>
+  <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">Ces options sont disponibles gratuitement, 24 heures sur 24, 7 jours sur 7 :</block>
+  <block id="19111351b69b6b15668130b38b7f6038" category="inline-link">Base de connaissances</block>
+  <block id="fd6bb4fa1ad0caeedd6782d92cc54ea3" category="list-text"><block ref="fd6bb4fa1ad0caeedd6782d92cc54ea3" category="inline-link-rx"></block></block>
+  <block id="9a3db1abe5491d0eb9bb5d125981356c" category="paragraph">Recherchez dans la base de connaissances BlueXP des articles utiles pour résoudre les problèmes.</block>
+  <block id="14526abd8bda5af347775025cd5342cf" category="inline-link">Communautés</block>
+  <block id="410fdb9caa9c64da2ff3f88f4836960d" category="list-text"><block ref="410fdb9caa9c64da2ff3f88f4836960d" category="inline-link-rx"></block></block>
+  <block id="00c5fef3bb9d593ae96bf5d2ee60354a" category="paragraph">Rejoignez la communauté BlueXP pour suivre des discussions en cours ou en créer de nouveaux.</block>
+  <block id="5b6cf869265c13af8566f192b4ab3d2a" category="list-text">Documentation</block>
+  <block id="a4a6c2ea0078252eac2d74ef3e6c917c" category="paragraph">La documentation BlueXP que vous consultez actuellement.</block>
+  <block id="80b1b0d2b1ebf2b3cba2d25759801afd" category="list-text">Courrier électronique :ng-cloudmanager-feedback@netapp.com[E-mail de commentaires]</block>
+  <block id="6702efec14563f45f1ee2f8c613b8ad8" category="paragraph">Nous accordons une grande importance à vos commentaires. Envoyez vos commentaires pour nous aider à améliorer BlueXP.</block>
+  <block id="0659d428df833a806e29e65e632d380a" category="section-title">Support NetApp</block>
+  <block id="82812db645b6ff5e9c2a24ddfb66c8d6" category="paragraph">Outre les options d'auto-support mentionnées ci-dessus, vous pouvez travailler avec un spécialiste du support NetApp pour résoudre tous les problèmes après avoir activé le service de support.</block>
+  <block id="e2a733504c4088b809813bbb35a3ddfd" category="inline-link-macro">Découvrez comment vous inscrire à de l'aide</block>
+  <block id="1012a287397c66025d7748edf06a36e2" category="paragraph">Pour utiliser la fonction *Créer un cas*, vous devez d'abord effectuer un enregistrement unique de votre numéro de série d'ID de compte BlueXP (par exemple 960xxxx) avec NetApp. <block ref="3349e4b3d05f646f2f1421bee7c2ad26" category="inline-link-macro-rx"></block>.</block>
+  <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">Étapes</block>
+  <block id="6254a4afeeb76765a127fe74d31c1b3d" category="list-text">Dans BlueXP, cliquez sur *aide &gt; support*.</block>
+  <block id="f5052c65917d7341726235d4d4941461" category="list-text">Choisissez l'une des options disponibles sous support technique :</block>
+  <block id="383133cb6f7207b1c65c3ace94aa5e95" category="list-text">Cliquez sur *appelez-nous* si vous souhaitez parler avec quelqu'un au téléphone. Vous serez dirigé vers une page netapp.com qui répertorie les numéros de téléphone que vous pouvez appeler.</block>
+  <block id="bf5bc6ab0f95f17f4e98c9d766b8c11d" category="list-text">Cliquez sur *Créer un dossier* pour ouvrir un dossier auprès des spécialistes du support NetApp :</block>
+  <block id="b53e0a259f4a0c8e7da80d6c94e26c84" category="list-text">*Compte sur le site de support NetApp* : sélectionnez le compte NSS applicable associé à la personne qui ouvre le dossier de support. Cette personne sera le contact principal avec NetApp en plus de l'e-mail ci-dessous.</block>
+  <block id="d950fb930d7f7e6bfdda1b91b4639a02" category="paragraph">Si vous ne voyez pas votre compte NSS, vous pouvez accéder à l'onglet *NSS Management* de la section support de BlueXP pour l'ajouter.</block>
+  <block id="d63bf50426f4c712554faec55b30c548" category="list-text">*Service* : sélectionnez le service auquel le problème est associé. Par exemple, BlueXP lorsqu'il est spécifique à un problème de support technique avec des flux de travail ou des fonctionnalités au sein du service.</block>
+  <block id="2e50c5f85523f0aba9ff2db10f18279c" category="list-text">*Environnement de travail* : si applicable au stockage, sélectionnez *Cloud Volumes ONTAP* ou *sur site*, puis l'environnement de travail associé.</block>
+  <block id="aa996e20900197b0ea41485ada083d8c" category="paragraph">La liste des environnements de travail est comprise dans le cadre du compte, de l'espace de travail et du connecteur BlueXP que vous avez sélectionnés dans la bannière supérieure du service.</block>
+  <block id="e6f29fb3c7636dc0040600dd0e84bb79" category="list-text">*Priorité du cas* : choisissez la priorité du cas, qui peut être faible, Moyen, élevé ou critique.</block>
+  <block id="835eb4008e97c2a7f69bbb2725285e34" category="paragraph">Pour en savoir plus sur ces priorités, passez votre souris sur l'icône d'information située à côté du nom du champ.</block>
+  <block id="0f7d9319c95a8be1492e74601c4b3259" category="list-text">*Description du problème* : fournir une description détaillée de votre problème, y compris les messages d'erreur ou les étapes de dépannage applicables que vous avez effectués.</block>
+  <block id="002c6f26fb01affb37b8cf3cef7a1fb0" category="list-text">*Adresses e-mail supplémentaires*: Entrez des adresses e-mail supplémentaires si vous souhaitez informer quelqu'un d'autre de ce problème.</block>
+  <block id="baaf0e61add7d12cf8d12e023d5aef18" category="inline-image-macro">Capture d'écran du formulaire Créer un dossier qui vous permet de créer un dossier auprès du support NetApp.</block>
+  <block id="a2ff30886e1baf1e7d5045b5fc24f5b9" category="paragraph"><block ref="a2ff30886e1baf1e7d5045b5fc24f5b9" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="18f487556417bb6d9721a7005ae097c9" category="paragraph">Une fenêtre contextuelle contenant votre numéro de dossier de support s'affiche. Un spécialiste du support NetApp va étudier votre dossier et vous recontacterons très rapidement.</block>
+  <block id="04e15da1deae9568b4dcda64fbb0c8d5" category="paragraph">Pour consulter l'historique de vos dossiers d'assistance, vous pouvez cliquer sur *Paramètres &gt; Chronologie* et rechercher les actions nommées "Créer un dossier de support". Un bouton à l'extrême droite vous permet de développer l'action pour voir les détails.</block>
+  <block id="5c56753585e89a84941bb3a78bc681af" category="paragraph">Il est possible que vous rencontriez le message d'erreur suivant lors de la création d'un dossier :</block>
+  <block id="a30f69ab0ec85d427a3e8835713525bd" category="paragraph">« Vous n'êtes pas autorisé à créer un dossier pour le service sélectionné »</block>
+  <block id="fa6b601b2fb4e3e5c7b466ecb8bd70ac" category="paragraph">Cette erreur peut signifier que le compte NSS et la société d'enregistrement auquel il est associé n'est pas la même société d'enregistrement pour le numéro de série du compte BlueXP (par exemple 960xxxx) ou le numéro de série de l'environnement de travail. Vous pouvez consulter votre liste de comptes NSS en haut du formulaire *Créer un dossier* pour trouver la correspondance appropriée, ou vous pouvez demander de l'aide en utilisant l'une des options suivantes :</block>
+  <block id="e01df0b4dfd95eba2c59333419e4fac6" category="list-text">Utilisez le chat du produit</block>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="inline-link"></block>
+  <block id="639be990cfca56ab4b63685d8bacd437" category="list-text">Soumettre un dossier non technique à<block ref="2298f47e4dad19a3156da7ce6116d9b1" category="inline-link-rx"></block></block>
+  <block id="0b0e252af8897fbe981ec6682d2aa33b" category="doc">Présentation de l'inscription au support</block>
+  <block id="8bf30fadf784022b073adb9233678a71" category="paragraph">Avant d'ouvrir un dossier de demande de support auprès du support technique NetApp, vous devez ajouter un compte sur le site du support NetApp (NSS) à BlueXP, puis vous inscrire pour obtenir du support.</block>
+  <block id="192054ad7601240a3e8be54cc5cc548e" category="paragraph">Il existe deux types d'inscription pour activer les droits d'assistance :</block>
+  <block id="2322ca552c2b0ebe090c8485519246a8" category="list-text">Enregistrement de votre abonnement au support pour les identifiants de compte BlueXP (votre numéro de série à 20 chiffres 960xxxxxxxxx se trouve sur la page des ressources de support de BlueXP).</block>
+  <block id="23fdcbefa6d9cd877be7ceb7a18bb936" category="paragraph">Il sert d'ID d'abonnement unique pour tous les services de BlueXP. Chaque abonnement au support BlueXP au niveau du compte doit être enregistré.</block>
+  <block id="55ff64467cd508971910145ab5d6b3b8" category="list-text">Enregistrement des numéros de série Cloud Volumes ONTAP associés à un abonnement sur le marché de votre fournisseur cloud (numéros de série à 20 chiffres 909201xxxxxxxx).</block>
+  <block id="67dbdeb11e22ea7def810bade59ce818" category="paragraph">Ces numéros de série sont généralement appelés _PAYGO - numéros de série_ et sont générés par BlueXP au moment du déploiement de Cloud Volumes ONTAP.</block>
+  <block id="9d4125dc88bb9db6eb4be939905761ce" category="paragraph">L'enregistrement des deux types de numéros de série offre des fonctionnalités telles que l'ouverture de tickets de support et la génération automatique de tickets.</block>
+  <block id="98bc603dcb6d5a57d540b13b541fa41a" category="paragraph">La façon dont vous vous inscrivez dépend de votre présence ou de votre présence chez un client ou un partenaire nouveau ou existant.</block>
+  <block id="e5646198d2e01aab2cec9ef946f9c53a" category="list-text">Client ou partenaire existant</block>
+  <block id="76928f97884b4332b83c5be9b99d93d3" category="paragraph">En tant que client ou partenaire NetApp, vous pouvez utiliser votre compte SSO du site de support NetApp pour effectuer les enregistrements suivants. Dans le tableau de bord support, BlueXP fournit une page *NSS Management* où vous pouvez ajouter votre compte NSS. Une fois votre compte NSS ajouté, BlueXP enregistre automatiquement ces numéros de série pour vous.</block>
+  <block id="4e6af37fb81d50483d832d4de6e2b26a" category="inline-xref">Découvrez comment ajouter votre compte NSS</block>
+  <block id="8d80298f51b7ff2da78e26e60195c7a3" category="paragraph"><block ref="cbec7c1a4a2acff5e84457dd449ac01d" category="inline-xref-macro-rx"></block>.</block>
+  <block id="1c91f3adc957364cb01d33e100ee1ea3" category="list-text">Nouveaux partenaires NetApp</block>
+  <block id="679f2cae4657f177cc89458d49c97e5f" category="paragraph">Si vous êtes nouveau chez NetApp, vous devez enregistrer votre numéro de série BlueXP sur le site d'inscription du support NetApp. Une fois que vous avez terminé cette inscription et créé un nouveau compte NSS, vous pouvez utiliser ce compte dans BlueXP pour vous inscrire automatiquement à l'avenir.</block>
+  <block id="00fc9d0c515c69ea2c368521453d982e" category="inline-xref">Découvrez comment vous inscrire auprès de NetApp</block>
+  <block id="97454ce87333f7ebd50ee38b8126fb39" category="paragraph"><block ref="37544f11913357c4e8c8a4ec607ae247" category="inline-xref-macro-rx"></block>.</block>
+  <block id="a92ec860f505b318fd0f0eba6165d607" category="section-title">Ajouter un compte NSS à BlueXP</block>
+  <block id="f2575f6d19024f7288cf78d7dc5b3db9" category="paragraph">Le tableau de bord du support vous permet d'ajouter et de gérer vos comptes du site de support NetApp pour BlueXP.</block>
+  <block id="328a2c1e7778e9edaf79d90c51409ac4" category="list-text">Si vous avez un compte au niveau du client, vous pouvez ajouter un ou plusieurs comptes NSS.</block>
+  <block id="e3cd99e4aa330ae6bdfb3754d83ae962" category="list-text">Si vous avez un compte partenaire ou revendeur, vous pouvez ajouter un ou plusieurs comptes NSS, mais ils ne peuvent pas être ajoutés en même temps que les comptes au niveau du client.</block>
+  <block id="1afe19576f77bb0073c93359ed2cbb18" category="list-text">Dans le coin supérieur droit de la console BlueXP, cliquez sur l'icône aide et sélectionnez *support*.</block>
+  <block id="b50f0a46135bcb7083b1f2f82032fc26" category="inline-image-macro">Capture d'écran du menu aide où support est la première option répertoriée</block>
+  <block id="868d9aa88f16ea923af1d15eac5d2647" category="paragraph"><block ref="868d9aa88f16ea923af1d15eac5d2647" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="d17d6b5dafebab6b7659da8850737e70" category="list-text">Cliquez sur *NSS Management &gt; Ajouter un compte NSS*.</block>
+  <block id="8aaf101e623c543c7eef3c65f6233366" category="list-text">Lorsque vous y êtes invité, cliquez sur *Continuer* pour être redirigé vers une page de connexion Microsoft.</block>
+  <block id="19d089db572ee6a1e154a0c9c9e57bfd" category="paragraph">NetApp utilise Microsoft Azure Active Directory comme fournisseur d'identités pour les services d'authentification spécifiques au support et aux licences.</block>
+  <block id="465ec6d5eafa3524c948c99d8bfcd306" category="list-text">Sur la page de connexion, indiquez l'adresse e-mail et le mot de passe que vous avez enregistrés sur le site de support NetApp pour réaliser le processus d'authentification.</block>
+  <block id="cbc6cc3bb022583403171b447b2a962c" category="paragraph">Ces actions permettent à BlueXP d'utiliser votre compte NSS pour des opérations telles que le téléchargement de licences, la vérification de la mise à niveau logicielle et les inscriptions de support futures.</block>
+  <block id="cf3a2d2c139bf5c9cc87fe714bfff3b1" category="paragraph">Notez ce qui suit :</block>
+  <block id="0f0a0d646a020cf3a65ce82ada4cfb01" category="list-text">Le compte doit être un compte de niveau client (et non un compte invité ou temporaire).</block>
+  <block id="1dcb63fd55c4d22e87cb32275b8cc808" category="inline-image-macro">Une icône de trois points horizontaux</block>
+  <block id="ff67299785d475e87002751aa6ab5eb8" category="list-text">Une fois la connexion établie, NetApp stockera le nom d'utilisateur NSS. Il s'agit d'un ID généré par le système qui correspond à votre courrier électronique. Sur la page *NSS Management*, vous pouvez afficher votre courriel à partir du <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> menu.</block>
+  <block id="505da61efe6bebebbaf092da18f64613" category="list-text">Si vous avez besoin d'actualiser vos jetons d'identification de connexion, il existe également une option *mettre à jour les informations d'identification* dans le <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> menu. Cette option vous invite à vous reconnecter.</block>
+  <block id="ad56c7289bc13dcf4f78c285f7f03878" category="section-title">Inscrivez-vous auprès de NetApp</block>
+  <block id="f1bac79c2c71fbd93863b9fbd718094c" category="paragraph">Le fait de vous inscrire au support NetApp dépend de la présence ou non d'un compte sur le site de support NetApp (NSS).</block>
+  <block id="bf4c731c0ee7f60c8018ad8f96828dda" category="section-title">Client existant avec un compte NSS</block>
+  <block id="7e177185e7eddff33dd8f3aeb7551132" category="paragraph">Si vous êtes client NetApp avec un compte NSS, il vous suffit de vous inscrire pour obtenir du support dans BlueXP.</block>
+  <block id="25b94e7b58140f12be91fa8fd935fa59" category="list-text">Si ce n'est déjà fait, ajoutez votre compte NSS à BlueXP.</block>
+  <block id="819aff12752b7e6a1828e755c7664de7" category="list-text">Sur la page *Ressources*, cliquez sur *s'inscrire au support*.</block>
+  <block id="e8a3d9970b8fc1d92caaf33d9e116bd4" category="inline-image-macro">Capture d'écran indiquant le numéro de série d'un compte et l'option Register pour le support</block>
+  <block id="113f9cd7bac6f4faa6b8d58e3e099a8e" category="paragraph"><block ref="113f9cd7bac6f4faa6b8d58e3e099a8e" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="1ff5aefce774ec72a211f2b3bb10b950" category="section-title">Client existant mais aucun compte NSS</block>
+  <block id="cc1d3c161bcf25e6445c2fc771647849" category="paragraph">Si vous êtes déjà client NetApp avec des licences et des numéros de série existants mais que _no_ NSS, il vous suffit de créer un compte NSS.</block>
+  <block id="5b2b7f628f804bcb786a097c7e45aa41" category="inline-link">Formulaire d'inscription de l'utilisateur du site de support NetApp</block>
+  <block id="0c4a8b62da9473fbd5401273c4f85ee0" category="list-text">Créez un compte sur le site de support NetApp en complétant le<block ref="041bcb6d9bdf91f7d6ac92ae3a196e12" category="inline-link-rx"></block></block>
+  <block id="d61c9f72493817776f392db42ac446a2" category="list-text">Veillez à sélectionner le niveau d'utilisateur approprié, qui est généralement *client/utilisateur final NetApp*.</block>
+  <block id="5226d4ec1f4f81b740cbbd27635b441f" category="list-text">Veillez à copier le numéro de série du compte BlueXP (960xxxx) utilisé ci-dessus pour le champ Numéro de série. Le traitement du compte sera ainsi accéléré.</block>
+  <block id="e9b1f53d6cabb3394833a4e102eb6a69" category="section-title">Découvrez la toute nouvelle gamme NetApp</block>
+  <block id="c20c107d0d4eef6351660f3590324232" category="paragraph">Si vous êtes nouveau chez NetApp et que vous ne disposez pas d'un compte NSS, effectuez chacune des étapes ci-dessous.</block>
+  <block id="2974170a8b1b5b4a2ac69aacd4c1c9c3" category="list-text">Recherchez le numéro de série de l'ID de compte sur la page d'inscription au support.</block>
+  <block id="ef5e63bb6b6827440a13cc2ec7e9cf56" category="paragraph"><block ref="ef5e63bb6b6827440a13cc2ec7e9cf56" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="dd50e314c18933734174c1156dd9237f" category="inline-link">Site d'inscription au support NetApp</block>
+  <block id="78f94e749b89d69dcbf3baff21ccb958" category="list-text">Accédez à<block ref="e1c4be66250fd76d5c52bfe2cb7daee2" category="inline-link-rx"></block> Et sélectionnez *je ne suis pas un client NetApp enregistré*.</block>
+  <block id="d4f633ef130727b2776fa7f45024ca7d" category="list-text">Remplissez les champs obligatoires (ceux avec des astérisques rouges).</block>
+  <block id="1128fc8d5ec64880f4d49337ed798d31" category="list-text">Dans le champ *Product Line*, sélectionnez *Cloud Manager*, puis votre fournisseur de facturation applicable.</block>
+  <block id="50a1dc01b7312307c34a888071586955" category="list-text">Copiez le numéro de série de votre compte à l'étape 2 ci-dessus, vérifiez sa sécurité, puis lisez la Déclaration de confidentialité des données NetApp.</block>
+  <block id="3a24c87c9971d2011b4df223718f84b4" category="paragraph">Un e-mail est immédiatement envoyé à la boîte aux lettres fournie pour finaliser cette transaction sécurisée. Assurez-vous de vérifier vos dossiers de courrier indésirable si l'e-mail de validation n'arrive pas dans quelques minutes.</block>
+  <block id="03413baeca1ff7222737d8ce299bd4e8" category="list-text">Confirmez l'action à partir de l'e-mail.</block>
+  <block id="201080500e946070a2e4873042507c77" category="paragraph">La confirmation de la soumission de votre demande à NetApp et vous recommande de créer un compte sur le site de support NetApp.</block>
+  <block id="cc8b0535948da368f832027c19b7f853" category="list-text">Veillez à copier le numéro de série du compte (960xxxx) utilisé ci-dessus pour le champ Numéro de série. Le traitement du compte sera ainsi accéléré.</block>
+  <block id="684375e279a289295b72a006d93e2c4c" category="paragraph">NetApp devrait vous contacter au cours de ce processus. Il s'agit d'un exercice d'intégration unique pour les nouveaux utilisateurs.</block>
+  <block id="1c0e45ef07d0dbc13ca2394d5e285fd7" category="paragraph">Une fois votre compte sur le site de support NetApp, vous pouvez accéder à BlueXP et ajouter ce compte NSS pour les inscriptions futures.</block>
+  <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">Toute la documentation BlueXP</block>
+  <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">Tout</block>
+  <block id="db974238714ca8de634a7ce1d083a14f" category="sidebar">API</block>
+  <block id="8e5adb4723e04a1f9bf2ea7df2c5e684" category="sidebar">Connecteurs et comptes</block>
+  <block id="5e2f5f3c24ae8c6ab3eca618826b0e23" category="sidebar">Extensions</block>
+  <block id="5a935787d6f091fc760443ab4c491465" category="sidebar">La gouvernance</block>
+  <block id="605669cab962bf944d99ce89cf9e58d9" category="sidebar">Santé</block>
+  <block id="f1c9e9af80bb533618f5bdefe333747d" category="sidebar">Visibilité</block>
+  <block id="340a76e3aef8e862f5fd79411261b297" category="sidebar">Mobilité</block>
+  <block id="83f1d9ca1a0c4c2fc51a371c0d773f76" category="sidebar">La protection</block>
+  <block id="8c4aa541ee911e8d80451ef8cc304806" category="sidebar">Stockage</block>
+  <block id="acef5d51685932cc367c2b457797c936" category="sidebar">Bienvenue dans BlueXP</block>
+  <block id="4d76faa1554725dd328ee6ba5b97a819" category="sidebar">Découvrez l'introduction de BlueXP.</block>
+  <block id="30b77b282030e8985671bcc89e3e4d74" category="sidebar">Configuration et administration</block>
+  <block id="679d45f8d9939047ac9efb03e95c425c" category="sidebar">Découvrez comment commencer à utiliser BlueXP et administrer les connecteurs, les comptes, et bien plus encore.</block>
+  <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">Notes de mise à jour</block>
+  <block id="800627e5502a4be1f5e84b9c5fdc990e" category="sidebar">Découvrez les nouveautés de BlueXP.</block>
+  <block id="3de329d856b09fe94d05567c4761f82d" category="sidebar">Conseiller digital (anciennement Active IQ)</block>
+  <block id="92086381b2a7391ff015bfa58d13afc9" category="sidebar">Des informations exploitables pour un état optimal du stockage.</block>
+  <block id="18cf072964a583150dd247485ba75b92" category="sidebar">Amazon FSX pour ONTAP</block>
+  <block id="977f48c0ad107bab5b00e6582e3d62b5" category="sidebar">Exploitez toutes les fonctionnalités d'ONTAP en tant que service géré par AWS.</block>
+  <block id="11ab9ad674d9803df9eb747b060ea178" category="sidebar">Gérez vos ressources cloud par programmation.</block>
+  <block id="ca9106b8b82ff55b6fdce530ccb952a7" category="sidebar">AppTemplate</block>
+  <block id="9b125025fd2aeab175107728e40c19f1" category="sidebar">Automatisez les actions dans BlueXP pour accélérer le provisionnement et éliminer le travail manuel.</block>
+  <block id="7450cfde7058dc5e1f7909d0280fd7ae" category="sidebar">Azure NetApp Files</block>
+  <block id="7f0915fd413dcc718e35e39d644d92ac" category="sidebar">Service de stockage de fichiers haute performance pour vos applications métier stratégiques.</block>
+  <block id="dad57e95fc9a5390302ad830888cbdb9" category="sidebar">La sauvegarde dans le cloud</block>
+  <block id="a3460dd01b0f0c32632246bf209e730f" category="sidebar">Sauvegardez et restaurez des données dans le cloud et sur site.</block>
+  <block id="d882bf73cd5caf1e5aa39edbf893ad74" category="sidebar">Sens des données cloud</block>
+  <block id="2090f2d846793f153b9266c648b079ef" category="sidebar">Gérez la confidentialité de vos données applicatives et de vos environnements cloud.</block>
+  <block id="b4f83b03956523a39e8bbbd0895f0f29" category="sidebar">Cloud Insights</block>
+  <block id="c50b91dc494c1ae78bb56ca7f5fb13a9" category="sidebar">Contrôlez les performances et l'utilisation de vos charges de travail cloud.</block>
+  <block id="e367efbc26bd12c0d6ae37dd6a55ef9b" category="sidebar">Cloud Sync</block>
+  <block id="9f47c7f98e6626074067a711fc1863ea" category="sidebar">Synchronisez les données entre des datastores sur site et dans le cloud.</block>
+  <block id="92d2b6aba6afa3f690540cf3dba9b633" category="sidebar">Tiering dans le cloud</block>
+  <block id="c6844dc3fe4e51f03d9c9209b1f58fc4" category="sidebar">Étendez votre stockage ONTAP sur site au cloud.</block>
+  <block id="117bdbda976fe8b3212bc3b6327a0a1b" category="sidebar">Cloud Volumes ONTAP</block>
+  <block id="1264ff6a809549b27ab6285b6ab793f2" category="sidebar">Rendez votre stockage cloud plus économique, intelligent, conforme et sécurisé.</block>
+  <block id="06021ba1ee96f1a3a57b50001fc7244c" category="sidebar">Cloud Volumes Service pour AWS</block>
+  <block id="d63057df831de033bf2e3c5f97ec80ba" category="sidebar">Service de fichiers cloud natif avec les performances du Flash</block>
+  <block id="b0cee72642f5457a71ddd0b49efb6d93" category="sidebar">Cloud Volumes Service pour Google Cloud</block>
+  <block id="862d06f5b0779c31053bcadc07e8028b" category="sidebar">Sécurisez, protégez et accélérez le stockage de vos fichiers.</block>
+  <block id="a623a8d0366bf079411aa30be45b2d10" category="sidebar">Calcul</block>
+  <block id="a17d9dd4943af64ba04db4529621baf0" category="sidebar">Gagnez en visibilité sur vos dépenses de cloud computing et identifiez les économies potentielles.</block>
+  <block id="6b068f0a943d421535c7d8d412ee3522" category="sidebar">Systèmes E-Series</block>
+  <block id="25e0ccd395342edee81a87cd62b00061" category="sidebar">Découvrez les systèmes E-Series et bénéficiez d'une vue complète sur les données dans l'ensemble de votre environnement multicloud hybride.</block>
+  <block id="24e6e2f6171b43a847fe194a9a9b5cd0" category="sidebar">Cache global de fichiers</block>
+  <block id="20fa9c1bc12bf7468e5d341fc1e54b7f" category="sidebar">Offrez au personnel distribué un partage de fichiers en temps réel.</block>
+  <block id="85eb427901278daf26f132cb3e076914" category="sidebar">Clusters Kubernetes</block>
+  <block id="94e507a2878d87e4845a941fafc1702f" category="sidebar">Gestion avancée des données des clusters Kubernetes dans votre cloud hybride.</block>
+  <block id="d0f1687c68ee0f0d9bac765716d18923" category="sidebar">Clusters ONTAP sur site</block>
+  <block id="b7a3a3d6e3a875d91556459f1c471d33" category="sidebar">Gérez les systèmes NetApp AFF et FAS dans l'ensemble du cloud hybride.</block>
+  <block id="950604af87c30e09716e6d097eb491db" category="sidebar">Protection contre les ransomwares</block>
+  <block id="0a2beb44f980a6220ce4afa12b490e4f" category="sidebar">Évaluez la résilience de vos données face à une cyber-attaque.</block>
+  <block id="8c340dc334134096f68b880b42a8692c" category="sidebar">La réplication</block>
+  <block id="852e5aa5bab2b81469e97f26b6e2b7f3" category="sidebar">Répliquer les données entre les systèmes de stockage pour prendre en charge la sauvegarde et la reprise après incident.</block>
+  <block id="392d70ca39f31f10bd637936769788df" category="sidebar">StorageGRID</block>
+  <block id="501e54577b674a9bc815f3f3bd429b90" category="sidebar">Découvrez et gérez vos systèmes StorageGRID.</block>
+</blocks>
