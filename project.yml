@@ -53,11 +53,6 @@ product-family:
     url: https://docs.netapp.com/us-en/cloud-manager-relnotes/index.html
     summary: Découvrez les nouveautés de BlueXP.
     tags: all
-  - title: Conseiller digital (anciennement Active IQ)
-    icon: "./media/icon-activeiq.png"
-    url: https://docs.netapp.com/us-en/active-iq/index.html
-    tags: all, health
-    summary: Des informations exploitables pour un état optimal du stockage.
   - title: Amazon FSX pour ONTAP
     icon: "./media/icon-fsx.png"
     url: https://docs.netapp.com/us-en/cloud-manager-fsx-ontap/index.html
@@ -130,6 +125,11 @@ product-family:
     summary: Gagnez en visibilité sur vos dépenses de cloud computing et identifiez
       les économies potentielles.
     tags: all, aws, extension
+  - title: Conseiller digital (anciennement Active IQ)
+    icon: "./media/icon-activeiq.png"
+    url: https://docs.netapp.com/us-en/active-iq/index.html
+    tags: all, health
+    summary: Des informations exploitables pour un état optimal du stockage.
   - title: Systèmes E-Series
     icon: "./media/icon-onprem.png"
     url: https://docs.netapp.com/us-en/cloud-manager-e-series/index.html
@@ -150,7 +150,8 @@ product-family:
   - title: Clusters ONTAP sur site
     icon: "./media/icon-onprem.png"
     url: https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/index.html
-    summary: Gérez les systèmes NetApp AFF et FAS dans l'ensemble du cloud hybride.
+    summary: Gérez vos systèmes NetApp AFF et FAS de BlueXP à l'aide de System Manager
+      et des services de données de BlueXP.
     tags: all, storage
   - title: Protection contre les ransomwares
     icon: "./media/icon-ransomware.png"

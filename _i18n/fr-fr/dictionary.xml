@@ -181,11 +181,11 @@
   <block id="85eb427901278daf26f132cb3e076914" category="sidebar">Clusters Kubernetes</block>
   <block id="94e507a2878d87e4845a941fafc1702f" category="sidebar">Gestion avancée des données des clusters Kubernetes dans votre cloud hybride.</block>
   <block id="d0f1687c68ee0f0d9bac765716d18923" category="sidebar">Clusters ONTAP sur site</block>
-  <block id="b7a3a3d6e3a875d91556459f1c471d33" category="sidebar">Gérez les systèmes NetApp AFF et FAS dans l'ensemble du cloud hybride.</block>
   <block id="950604af87c30e09716e6d097eb491db" category="sidebar">Protection contre les ransomwares</block>
   <block id="0a2beb44f980a6220ce4afa12b490e4f" category="sidebar">Évaluez la résilience de vos données face à une cyber-attaque.</block>
   <block id="8c340dc334134096f68b880b42a8692c" category="sidebar">La réplication</block>
   <block id="852e5aa5bab2b81469e97f26b6e2b7f3" category="sidebar">Répliquer les données entre les systèmes de stockage pour prendre en charge la sauvegarde et la reprise après incident.</block>
   <block id="392d70ca39f31f10bd637936769788df" category="sidebar">StorageGRID</block>
   <block id="501e54577b674a9bc815f3f3bd429b90" category="sidebar">Découvrez et gérez vos systèmes StorageGRID.</block>
+  <block id="19874606c485ce682436c45308e50186" category="sidebar">Gérez vos systèmes NetApp AFF et FAS de BlueXP à l'aide de System Manager et des services de données de BlueXP.</block>
 </blocks>
