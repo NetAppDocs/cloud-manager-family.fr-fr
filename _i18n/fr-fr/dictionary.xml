@@ -188,4 +188,6 @@
   <block id="392d70ca39f31f10bd637936769788df" category="sidebar">StorageGRID</block>
   <block id="501e54577b674a9bc815f3f3bd429b90" category="sidebar">Découvrez et gérez vos systèmes StorageGRID.</block>
   <block id="19874606c485ce682436c45308e50186" category="sidebar">Gérez vos systèmes NetApp AFF et FAS de BlueXP à l'aide de System Manager et des services de données de BlueXP.</block>
+  <block id="8fece025a1a8fef7018449bf104a2527" category="paragraph-title">Avant de commencer</block>
+  <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">Une fois que vous avez terminé</block>
 </blocks>
